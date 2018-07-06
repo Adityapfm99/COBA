@@ -10,6 +10,7 @@
             <field name="code">employeeid.default.seq</field>
             <field name="prefix">%(y)s</field>
             <field name="padding">5</field>
+			  <field name="padding">15</field>
         </record>
     </data>
 </openerp>
